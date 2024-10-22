@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python coding  
 - 📫 How to reach me hongg99@mail.com
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: Old but new at this!  
+- ⚡ Fun fact: Old, but new at this!  
 
 <!---
 hong7897/hong7897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
